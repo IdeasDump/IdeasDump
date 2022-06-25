@@ -3,13 +3,13 @@ remote_theme: hydecorp/hydejack
 markdown: GFM
 menu:
   - title: Blog
-    url: /blog.html
+    url: /blog/
   - title: Projects
-    url: /projects.html
+    url: /projects/
   - title: Resume
-    url: /resume.thml
+    url: /resume/
   - title: About
-    url: /about.html
+    url: /about/
 
 accent_image: 'assets/sidebar-bg.jpg'
 
