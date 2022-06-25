@@ -1,5 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_theme: dark
+minimal_mistakes_theme: "dark"
 
 markdown: kramdown
 mathjax: True
