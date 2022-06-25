@@ -11,7 +11,7 @@ P(A|B)=\frac{P(B|A)P(A)}{P(B)}
 $$
 
 $$
-X^2 - Y^2 = (X+Y)(X-Y)
+X^{2} - Y^{2} = (X+Y)(X-Y)
 $$
 
 Bayes' Theorem
