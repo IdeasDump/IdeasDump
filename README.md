@@ -1,6 +1,6 @@
 ## Welcome to our Ideas!
 
-We are Matt and David; two university grads looking to change the world!
+We are Matt and Davis; two university grads looking to change the world!
 
 This is really an excuse to make a website (of some sorts) for hosting our ideas and thoughts. 
 
