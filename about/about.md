@@ -1,9 +1,8 @@
 ---
-layout: post
-title: "About"
-permalink: /about/
+layout: about
+title: About
 ---
 
-# Matt
-
 # Davis
+
+# Matt
