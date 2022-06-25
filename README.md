@@ -1,6 +1,6 @@
 ## Welcome to our Ideas!
 
-We are Matt and David; two university grads looking to change the world!
+We are Matt and Davis; two university grads looking to change the world!
 
 
 ### MathJax Testing
