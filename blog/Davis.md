@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Davis
-category: blog
+title: "Davis"
+permalink: /blog/
 ---
 
 Hi.
