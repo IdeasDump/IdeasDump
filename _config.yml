@@ -1,4 +1,6 @@
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_theme: dark
+
 markdown: kramdown
 mathjax: True
 
@@ -9,3 +11,4 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
