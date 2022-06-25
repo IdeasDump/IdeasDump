@@ -2,7 +2,7 @@
 
 We are Matt and David; two university grads looking to change the world!
 
-This is really an excuse to make a website (of some sorts) for hosting our ideas and thoughts.  
+This is really an excuse to make a website (of some sorts) for hosting our ideas and thoughts. 
 
 ### MathJax Testing
 
