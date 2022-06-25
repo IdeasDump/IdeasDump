@@ -1,6 +1,6 @@
 ---
-layout: blog
-title: "Davis"
+layout: post
+title: "Matt"
 permalink: /blog/
 ---
 
