@@ -9,3 +9,5 @@ menu:
     url: /resume/
   - title: About
     url: /about/
+
+accent_image: 'assets/sidear-bg.jpg'
