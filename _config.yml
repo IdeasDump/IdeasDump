@@ -1,6 +1,9 @@
 url: https://ideasdump.github.io/
 remote_theme: hydecorp/hydejack
 markdown: GFM
+
+title: IdeasDump
+
 menu:
   - title: Blog
     url: /blog/
