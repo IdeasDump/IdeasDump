@@ -1,3 +1,5 @@
+url: https://ideasdump.github.io/
+baseurl: ''
 remote_theme: hydecorp/hydejack
 markdown: GFM
 menu:
@@ -10,4 +12,4 @@ menu:
   - title: About
     url: /about/
 
-accent_image: 'assets/sidear-bg.jpg'
+accent_image: 'assets/sidebar-bg.jpg'
