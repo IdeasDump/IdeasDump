@@ -1,3 +1,5 @@
+url: https://ideasdump.github.io/
+baseurl: ''
 remote_theme: hydecorp/hydejack
 markdown: GFM
 
@@ -9,4 +11,21 @@ menu:
   - title: Resume
     url:   /resume/
   - title: About
-    url:   /about/
+    url: /about/
+
+accent_image: 'assets/sidebar-bg.jpg'
+
+plugins:
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-include-cache
+  - jekyll-last-modified-at
+
+  
