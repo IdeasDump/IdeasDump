@@ -2,6 +2,7 @@
 layout: about
 title: About
 description: Humble beginnings for the young guns
+permalink: /about/
 ---
 
 ## Welcome to our Ideas!
