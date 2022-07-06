@@ -16,4 +16,3 @@ $$
 
 Bayes' Theorem
 {:.figcaption}
-
