@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: about
 title: About
 description: Humble beginnings for the young guns
-cover: True
+cover: true
+permalink: /
 ---
 
 ## Welcome to our Ideas!
