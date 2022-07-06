@@ -9,6 +9,8 @@ menu:
     url:   /projects/
   - title: Resume
     url:   /resume/
+  - title: About
+    url:   /about/
 
 accent_image: 'assets/sidebar-bg.jpg'
 
