@@ -1,5 +1,8 @@
 remote_theme: hydecorp/hydejack
-markdown: GFM
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
 permalink: /blog/:categories/:year-:month-:day-:title/
 menu:
   - title: Blog
