@@ -1,7 +1,7 @@
 url: https://ideasdump.github.io/
 remote_theme: hydecorp/hydejack
 markdown: GFM
-
+permalink: /blog/:categories/:year-:month-:day-:title/
 menu:
   - title: Blog
     url:   /blog/
