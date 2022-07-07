@@ -29,7 +29,7 @@ plugins:
 
 collections:
   featured_categories:
-    permalink:         /:name/
+    permalink:         blog/:name/
     output:            true
   featured_tags:
     permalink:         /tag-:name/
