@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grad School Admissiom
+title: Grad School Admission
 ---
 
 As of July 8<sup>th</sup>, I've been admitted to the University of Washington's online Master of Science in Mechanical Engineering! After watching [Steve Brunton's YouTube videos](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw) that showcase UW's online learning resources, the school became my top choice for part-time graduate studies.
